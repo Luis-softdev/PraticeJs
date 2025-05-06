@@ -1,0 +1,12 @@
+{
+    "nome": "Lucas",
+    "idade": 20,
+    "cpf": "123.456.789-00",
+    "email": "8V4lY@example.com",
+    "telefones": ["(11) 91234-5678", "(11) 98765-4321"],
+    "endereco": {
+        "rua": "Rua das Flores",
+        "numero": 123,
+        "complemento": "Apto 45"
+    }
+}
