@@ -1,0 +1,19 @@
+{
+    "animais": [
+        {
+            "nome": "Cachorro",
+            "idade": 3,
+            "peso": 8
+        },
+        {
+            "nome": "Gato",
+            "idade": 2,
+            "peso": 3
+        },
+        {
+            "nome": "Cachorro",
+            "idade": 5,
+            "peso": 10
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Camiseta",
+            "preco": 10.0,
+            "quantidade": 5
+        },
+        {
+            "id": 2,
+            "nome": "Calça",
+            "preco": 20.0,
+            "quantidade": 3
+        },
+        {
+            "id": 3,
+            "nome": "Boné",
+            "preco": 15.0,
+            "quantidade": 8
+        }
+    ],
+    "usuários": [
+        {
+            "id": 1,
+            "nome": "João",
+            "email": "eBkTn@example.com",
+            "senha": "123456"
+        },
+        {
+            "id": 2,
+            "nome": "Maria",
+            "email": "7YK6m@example.com",
+            "senha": "654321"
+        }
+    ]
+}
